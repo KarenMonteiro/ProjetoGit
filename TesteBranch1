@@ -1,2 +1,4 @@
-arquivo de teste de criação da branch 1
-acentuação default com arquivo windows 1252
+arquivo de teste de criaÃ§Ã£o da branch 1
+acentuaÃ§Ã£o default com arquivo windows 1252
+adicionando nova linha via web para checar acentuaÃ§Ã£o
+mensagem exibida: Weâ€™ve detected the file encoding as ISO-8859-1. When you commit changes we will transcode it to UTF-8.
